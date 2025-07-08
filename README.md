@@ -66,6 +66,6 @@ pandas scikit-learn tensorflow matplotlib seaborn joblib nltk
 🧠 GELİŞTİRİCİ
 
 Yasemin
-NLP & Görüntü İşleme meraklısı
+NLP & Görüntü İşleme
 GitHub: https://github.com/karacayase
 
